@@ -1,8 +1,5 @@
-Dokumen Putusan Pengadilan - Kasus Narkotika
+#Dataset Putusan Pengadilan Kasus Narkotika Pengadilan Negeri Samarinda#
 Deskripsi
-Dataset/Narkotika.zip
+Repositori ini berisi dataset terkait putusan pengadilan kasus narkotika pengadilan negeri Samarinda
+Informasi
 
-Ini adalah folder dalam bentuk zip yang berisi 50 dokumen putusan pengadilan dalam format PDF. Setiap dokumen mewakili satu putusan terkait kasus narkotika.
-Overview/Overview.xlsx
-
-File ini berisi ringkasan dari 50 dokumen putusan yang ada di Narkotika.zip. Ringkasan ini mencakup informasi penting untuk setiap kasus, termasuk identitas dan rincian utama dari setiap putusan pengadilan.
